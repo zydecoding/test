@@ -1,2 +1,1 @@
-test
-我是小明
+new branch A
